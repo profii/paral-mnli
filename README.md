@@ -1,5 +1,6 @@
 # Parallelized MNLI
 Data Parallelism - DDP by Torch
+
 Model parallelism - Megatron-LM by NVIDIA
 
 Dataset: 
