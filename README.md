@@ -3,6 +3,8 @@ Data Parallelism - DDP by Torch
 
 Model parallelism - Megatron-LM by NVIDIA
 
+Pipeline parallelism - GPipe
+
 Dataset: 
 Number of training examples: **392702**;
 Number of validation examples: **9823**;
