@@ -20,7 +20,6 @@ Hyperparameters for ```bert-large-cased```:
 | hidden_size | `768` |
 | intermediate_size | `2048` |
 | max_position_embeddings | `1024` |
-| dim_feedforward | `2048` |
 | learning_rate | `1e-5` |
 | BATCH | `64` |
 | N_EPOCHS | `3` |
